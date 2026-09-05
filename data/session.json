@@ -1,0 +1,14 @@
+{
+  "sessionId": "451fba84-2f60-44ea-8a77-0a612afa3d81",
+  "createdAt": "2026-09-05T08:43:23.764Z",
+  "phase": "waiting",
+  "durationMinutes": 5,
+  "startedAt": null,
+  "writingEndsAt": null,
+  "graceEndsAt": null,
+  "revealAt": null,
+  "participants": {},
+  "report": null,
+  "analysisModel": null,
+  "analysisCreatedAt": null
+}
